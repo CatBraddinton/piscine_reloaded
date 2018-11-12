@@ -1,3 +1,4 @@
 # piscine_reloaded
 My solution for Piscine Reloaded project at Unit Factory (school 42).
-![Screenshot](piscine_reloaded/Screen Shot 2018-11-12 at 2.35.39 PM.png)
+
+![alt tag](https://github.com/CatBraddinton/piscine_reloaded/blob/master/Screen%20Shot%202018-11-12%20at%202.35.39%20PM.png)
